@@ -8,7 +8,7 @@ BATCH: DW75DW76
 
 DOMAIN : DATA SCIENCE
 
-DEMO VIDEO URL : 
+DEMO VIDEO URL : https://www.linkedin.com/posts/ramyakrishnan19_excited-to-unveil-my-latest-project-activity-7145280722537185280-gu2y?utm_source=share&utm_medium=member_desktop
 
 Linked in URL : www.linkedin.com/in/ramyakrishnan19
 
