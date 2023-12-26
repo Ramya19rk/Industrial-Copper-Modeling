@@ -51,3 +51,69 @@ Classification Model is used to predict the Status
 Regression Model is used to predict the Selling Price
 
 
+# Overview
+
+This project involves the development of a machine learning model for industrial copper modelling, focusing on predicting key outcomes such as Selling Price and Status. The project integrates various data analysis, preprocessing, and machine learning techniques to provide valuable insights into the manufacturing domain.
+
+# Domain and Technology Used
+
+# Domain
+
+The project addresses challenges in the manufacturing domain, aiming to leverage machine learning to enhance decision-making processes related to industrial copper.
+
+# Technology Stack
+
+Programming Language: Python
+
+Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Streamlit
+
+Machine Learning Models: ExtraTreesRegressor, XGBRegressor, ExtraTreesClassifier, Logistic Regression
+
+Web Application Framework: Streamlit
+
+# Project Structure
+
+# Home Menu:
+
+Overview of the project, its objectives, and significance.
+
+Details about the manufacturing domain and the role of machine learning in solving related challenges.
+
+# Selling Price Menu:
+
+Form to input parameters like Quantity Ton, Customer Type, Country Code, etc.
+
+Upon submitting the form, the model predicts and displays the Selling Price.
+
+# Status Menu:
+
+Form to input parameters like Quantity Ton, Customer Type, Country Code, etc.
+
+Upon submitting the form, the model predicts and displays the Status (e.g., Won or Lost).
+
+# Usage
+
+# Home:
+Provides an overview of the project, domain, and technology used.
+
+# Selling Price:
+
+Fill out the form with relevant details.
+
+Click "Process" to get the predicted Selling Price.
+
+# Status:
+
+Fill out the form with relevant details.
+
+Click "Process" to get the predicted Status.
+
+
+# Learning Outcomes
+
+Proficiency in Python programming and data analysis libraries.
+
+Experience in data preprocessing techniques, EDA, and machine learning modeling.
+
+Building interactive web applications using Streamlit.
+
