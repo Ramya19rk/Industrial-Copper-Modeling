@@ -79,11 +79,23 @@ Overview of the project, its objectives, and significance.
 
 Details about the manufacturing domain and the role of machine learning in solving related challenges.
 
+<img width="1440" alt="Screenshot 2023-12-26 at 10 24 01 AM" src="https://github.com/Ramya19rk/Industrial-Copper-Modeling/assets/145639838/19289a7e-ac9a-4e1a-b366-64fb9b3c0863">
+
+
 # Selling Price Menu:
 
 Form to input parameters like Quantity Ton, Customer Type, Country Code, etc.
 
 Upon submitting the form, the model predicts and displays the Selling Price.
+
+<img width="1440" alt="Screenshot 2023-12-26 at 10 24 16 AM" src="https://github.com/Ramya19rk/Industrial-Copper-Modeling/assets/145639838/87428beb-6519-48e3-88c1-9f4c5aab0dea">
+
+<img width="1440" alt="Screenshot 2023-12-26 at 10 24 25 AM" src="https://github.com/Ramya19rk/Industrial-Copper-Modeling/assets/145639838/329f1f2a-1e1a-4553-abd8-83ec110aee11">
+
+<img width="1440" alt="Screenshot 2023-12-26 at 10 25 06 AM" src="https://github.com/Ramya19rk/Industrial-Copper-Modeling/assets/145639838/9548f8cd-8fa5-4a98-a849-782be027330b">
+
+<img width="1440" alt="Screenshot 2023-12-26 at 10 25 16 AM" src="https://github.com/Ramya19rk/Industrial-Copper-Modeling/assets/145639838/5e463d6b-00b1-4dfb-b39d-63e4939648e7">
+
 
 # Status Menu:
 
@@ -91,22 +103,13 @@ Form to input parameters like Quantity Ton, Customer Type, Country Code, etc.
 
 Upon submitting the form, the model predicts and displays the Status (e.g., Won or Lost).
 
-# Usage
+<img width="1440" alt="Screenshot 2023-12-26 at 10 25 31 AM" src="https://github.com/Ramya19rk/Industrial-Copper-Modeling/assets/145639838/41238164-1d24-4022-a3d8-a73472e06204">
 
-# Home:
-Provides an overview of the project, domain, and technology used.
+<img width="1440" alt="Screenshot 2023-12-26 at 10 25 38 AM" src="https://github.com/Ramya19rk/Industrial-Copper-Modeling/assets/145639838/dc21abd2-046c-4df3-8a3a-4bcd788d4f7f">
 
-# Selling Price:
+<img width="1439" alt="Screenshot 2023-12-26 at 10 25 46 AM" src="https://github.com/Ramya19rk/Industrial-Copper-Modeling/assets/145639838/a4518d67-d034-448d-bd43-8ef1fd780b90">
 
-Fill out the form with relevant details.
-
-Click "Process" to get the predicted Selling Price.
-
-# Status:
-
-Fill out the form with relevant details.
-
-Click "Process" to get the predicted Status.
+<img width="1440" alt="Screenshot 2023-12-26 at 10 25 53 AM" src="https://github.com/Ramya19rk/Industrial-Copper-Modeling/assets/145639838/1fbd192f-f2e2-453d-88cf-45f8e25873ee">
 
 
 # Learning Outcomes
